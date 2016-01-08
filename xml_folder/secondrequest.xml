@@ -1,0 +1,24 @@
+<AirPriceReq xmlns="http://www.travelport.com/schema/air_v33_0" TraceId="9a42c23a-e157-4d30-adc1-0254af2ccd20" AuthorizedBy="Travelport" TargetBranch="P7027242">
+  <BillingPointOfSaleInfo xmlns="http://www.travelport.com/schema/common_v33_0" OriginApplication="uAPI" />
+  <AirItinerary>
+    <AirSegment Key="S7+hgDDmQ22i/opc8GujSQ==" Group="0" Carrier="AI" FlightNumber="274" Origin="CMB" Destination="MAA" DepartureTime="2016-01-20T18:30:00.000+05:30" ArrivalTime="2016-01-20T19:50:00.000+05:30" FlightTime="80" Distance="402" ProviderCode="1P" ClassOfService="L" />
+    <AirSegment Key="vNK2unOZRDawGd9FBALmjw==" Group="0" Carrier="AI" FlightNumber="569" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T06:20:00.000+05:30" ArrivalTime="2016-01-21T08:10:00.000+05:30" FlightTime="110" Distance="644" ProviderCode="1P" ClassOfService="V" />
+  </AirItinerary>
+  <AirPricingModifiers InventoryRequestType="DirectAccess">
+    <BrandModifiers ModifierType="FareFamilyDisplay" />
+  </AirPricingModifiers>
+  <SearchPassenger xmlns="http://www.travelport.com/schema/common_v33_0" Code="ADT" Age="40" BookingTravelerRef="aWk5MGhlaVNiQU5VdFNHSA==" Key="aWk5MGhlaVNiQU5VdFNHSA==" />
+  <AirPricingCommand>
+    <AirSegmentPricingModifiers AirSegmentRef="S7+hgDDmQ22i/opc8GujSQ==" FareBasisCode="LOW">
+      <PermittedBookingCodes>
+        <BookingCode Code="L" />
+      </PermittedBookingCodes>
+    </AirSegmentPricingModifiers>
+    <AirSegmentPricingModifiers AirSegmentRef="vNK2unOZRDawGd9FBALmjw==" FareBasisCode="LOW">
+      <PermittedBookingCodes>
+        <BookingCode Code="V" />
+      </PermittedBookingCodes>
+    </AirSegmentPricingModifiers>
+  </AirPricingCommand>
+  <FormOfPayment xmlns="http://www.travelport.com/schema/common_v33_0" Type="Credit" />
+</AirPriceReq>

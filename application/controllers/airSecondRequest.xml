@@ -1,0 +1,18 @@
+<AirPriceReq xmlns="http://www.travelport.com/schema/air_v33_0" TraceId="8bfc8b57-dde8-4ae8-bb78-a7b2237a9f0e" AuthorizedBy="Travelport" TargetBranch="P1875745">
+  <BillingPointOfSaleInfo xmlns="http://www.travelport.com/schema/common_v33_0" OriginApplication="uAPI" />
+  <AirItinerary>
+    <AirSegment Key="RKJPXHAbT2mjMCeDFWiQkA==" Group="0" Carrier="9W" FlightNumber="255" Origin="CMB" Destination="BOM" DepartureTime="2015-12-30T06:10:00.000+05:30" ArrivalTime="2015-12-30T08:45:00.000+05:30" FlightTime="155" Distance="948" ProviderCode="1P" ClassOfService="V" />
+  </AirItinerary>
+  <AirPricingModifiers InventoryRequestType="DirectAccess">
+    <BrandModifiers ModifierType="FareFamilyDisplay" />
+  </AirPricingModifiers>
+  <SearchPassenger xmlns="http://www.travelport.com/schema/common_v33_0" Code="ADT" Age="40" BookingTravelerRef="ZWphRGpLY2JRUzN5QnFOZA==" Key="ZWphRGpLY2JRUzN5QnFOZA==" />
+  <AirPricingCommand>
+    <AirSegmentPricingModifiers AirSegmentRef="RKJPXHAbT2mjMCeDFWiQkA==" FareBasisCode="V2SPOWLK">
+      <PermittedBookingCodes>
+        <BookingCode Code="V" />
+      </PermittedBookingCodes>
+    </AirSegmentPricingModifiers>
+  </AirPricingCommand>
+  <FormOfPayment xmlns="http://www.travelport.com/schema/common_v33_0" Type="Credit" />
+</AirPriceReq>

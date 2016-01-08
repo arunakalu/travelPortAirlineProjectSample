@@ -1,0 +1,26 @@
+<air:AirPriceRsp xmlns:air="http://www.travelport.com/schema/air_v33_0" xmlns:common_v33_0="http://www.travelport.com/schema/common_v33_0" TraceId="9a42c23a-e157-4d30-adc1-0254af2ccd20" TransactionId="1AB47D7D0A07643C24BD85329284DC10" ResponseTime="9470">
+  <common_v33_0:ResponseMessage Code="0" Type="Info" ProviderCode="1P">* NON-END/NON-RERT/NON-REF</common_v33_0:ResponseMessage>
+  <common_v33_0:ResponseMessage Code="0" Type="Info" ProviderCode="1P">* PRICING RULES VALIDATING CARRIER DEFAULT AI</common_v33_0:ResponseMessage>
+  <common_v33_0:ResponseMessage Code="710007" Type="Warning" ProviderCode="1P">Fare Basis Code(s) and/or Fare Break(s) have not been provided for all segments and have been ignored.</common_v33_0:ResponseMessage>
+  <common_v33_0:ResponseMessage Code="4400" Type="Warning" ProviderCode="1P">No Merchandising optional services returned for Flight(s) [AI][274]</common_v33_0:ResponseMessage>
+  <common_v33_0:ResponseMessage Code="4400" Type="Warning" ProviderCode="1P">No Merchandising optional services returned for Flight(s) [AI][569]</common_v33_0:ResponseMessage>
+  <air:AirItinerary>
+    <air:AirSegment Key="BPeH/6EuT5upRKMXyoxKVQ==" Group="0" Carrier="AI" FlightNumber="274" ProviderCode="1P" Origin="CMB" Destination="MAA" DepartureTime="2016-01-20T18:30:00.000+05:30" ArrivalTime="2016-01-20T19:50:00.000+05:30" ChangeOfPlane="false" OptionalServicesIndicator="false" />
+    <air:AirSegment Key="oqc+N5fbQ8iTHxQ/U6sK9w==" Group="0" Carrier="AI" FlightNumber="569" ProviderCode="1P" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T06:20:00.000+05:30" ArrivalTime="2016-01-21T08:10:00.000+05:30" ChangeOfPlane="false" OptionalServicesIndicator="false" />
+  </air:AirItinerary>
+  <air:AirPriceResult>
+    <air:AirPricingSolution Key="rKP+CkphRCyOpI2Jo0ZTVw==" TotalPrice="SGD289.00" BasePrice="LKR170.00" ApproximateTotalPrice="USD206.89" ApproximateBasePrice="USD121.70" EquivalentBasePrice="SGD170.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19">
+      <air:AirSegmentRef Key="BPeH/6EuT5upRKMXyoxKVQ==" />
+      <air:AirSegmentRef Key="oqc+N5fbQ8iTHxQ/U6sK9w==" />
+      <air:AirPricingInfo Key="YccD04/KRMCep/42iIKaPQ==" TotalPrice="SGD289.00" BasePrice="LKR170.00" ApproximateTotalPrice="USD206.90" ApproximateBasePrice="USD121.70" EquivalentBasePrice="SGD170.00" ApproximateTaxes="USD85.19" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Auto" ProviderCode="1P">
+        <air:FareInfo Key="7r2tUkx5TJKQhk6kHbguSQ==" FareBasis="LOW" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T11:39:51.550+05:30" Amount="SGD170.00">
+          <air:FareRuleKey FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" ProviderCode="1P">gktGMhjcPf3UuQ1L0vXSjzEP1S73H7ezrAVso4EceSgQUFz1xal2Rg5tnXGETBWOEn8Mg+HAuzKP5Rqw65fgFORsBfJKkIog</air:FareRuleKey>
+          <air:Brand BrandFound="false" />
+        </air:FareInfo>
+        <air:BookingInfo BookingCode="L" FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" SegmentRef="BPeH/6EuT5upRKMXyoxKVQ==" />
+        <air:BookingInfo BookingCode="V" FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" SegmentRef="oqc+N5fbQ8iTHxQ/U6sK9w==" />
+        <air:PassengerType Code="ADT" />
+      </air:AirPricingInfo>
+    </air:AirPricingSolution>
+  </air:AirPriceResult>
+</air:AirPriceRsp>

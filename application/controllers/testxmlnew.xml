@@ -1,0 +1,40 @@
+<point_breaker>
+    <row>
+        <id>1</id>
+        <user_type>1</user_type>
+        <point_breaker>200</point_breaker>
+        <bonus_point>520</bonus_point>
+    </row>
+    <row>
+        <id>3</id>
+        <user_type>2</user_type>
+        <point_breaker>230</point_breaker>
+        <bonus_point>586</bonus_point>
+    </row>
+    <row>
+        <id>4</id>
+        <user_type>3</user_type>
+        <point_breaker>87</point_breaker>
+        <bonus_point>982</bonus_point>
+    </row>
+</point_breaker>
+
+<point_details>
+    <row>
+        <id>1</id>
+        <user_ID>1</user_ID>
+        <point>0</point>
+        <user_type>1</user_type>
+        <status>0</status>
+    </row>
+    <row>
+        <id>2</id>
+        <user_ID>2</user_ID>
+        <point>100</point>
+        <user_type>1</user_type>
+        <status>1</status>
+    </row>
+</point_details>
+
+<values_of_point></values_of_point>
+

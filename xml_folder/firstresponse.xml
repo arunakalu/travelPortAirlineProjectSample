@@ -1,0 +1,1037 @@
+<air:LowFareSearchRsp xmlns:air="http://www.travelport.com/schema/air_v33_0" TraceId="38ceb673-1d34-4942-9bf5-1d1c28429399" TransactionId="1AB341E10A07643C24BD8532244A3446" ResponseTime="7321" DistanceUnits="MI" CurrencyType="USD">
+  <air:FlightDetailsList>
+    <air:FlightDetails Key="0+zRB8j7QuahNqI7svciPw==" Origin="CMB" Destination="MAA" DepartureTime="2016-01-20T18:30:00.000+05:30" ArrivalTime="2016-01-20T19:50:00.000+05:30" FlightTime="80" TravelTime="820" Equipment="321" DestinationTerminal="4" />
+    <air:FlightDetails Key="GOVoMDbeQniy9XHHXiz+IQ==" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T06:20:00.000+05:30" ArrivalTime="2016-01-21T08:10:00.000+05:30" FlightTime="110" TravelTime="820" Equipment="319" OriginTerminal="1" DestinationTerminal="2" />
+    <air:FlightDetails Key="jHHpqBZsSVibggbrMIDt9g==" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T16:15:00.000+05:30" ArrivalTime="2016-01-21T18:25:00.000+05:30" FlightTime="130" TravelTime="1435" Equipment="319" OriginTerminal="1" DestinationTerminal="2" />
+    <air:FlightDetails Key="sTaNuJK0SFiNZ0cw8ft+aA==" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T06:10:00.000+05:30" ArrivalTime="2016-01-20T08:45:00.000+05:30" FlightTime="155" TravelTime="155" Equipment="737" DestinationTerminal="2" />
+    <air:FlightDetails Key="QKbm+RbGTK2lWddKdSAZDA==" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T21:45:00.000+05:30" ArrivalTime="2016-01-21T00:25:00.000+05:30" FlightTime="160" TravelTime="160" Equipment="737" DestinationTerminal="2" />
+    <air:FlightDetails Key="xR2J/etXTSeQ29yUVXvqgg==" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T23:45:00.000+05:30" ArrivalTime="2016-01-21T02:10:00.000+05:30" FlightTime="145" TravelTime="145" Equipment="320" DestinationTerminal="2" />
+    <air:FlightDetails Key="F8Dr5BF0ST274VsFhITHjQ==" Origin="CMB" Destination="DEL" DepartureTime="2016-01-20T08:20:00.000+05:30" ArrivalTime="2016-01-20T12:10:00.000+05:30" FlightTime="230" TravelTime="635" Equipment="321" DestinationTerminal="3" />
+    <air:FlightDetails Key="pCJZnswBSgmhNjh81wjqvQ==" Origin="DEL" Destination="BOM" DepartureTime="2016-01-20T16:45:00.000+05:30" ArrivalTime="2016-01-20T18:55:00.000+05:30" FlightTime="130" TravelTime="635" Equipment="77W" OriginTerminal="3" DestinationTerminal="2" />
+    <air:FlightDetails Key="uzMM1Tq8RSa0Gr+lvwA4gg==" Origin="DEL" Destination="BOM" DepartureTime="2016-01-20T17:00:00.000+05:30" ArrivalTime="2016-01-20T19:20:00.000+05:30" FlightTime="140" TravelTime="660" Equipment="321" OriginTerminal="3" DestinationTerminal="2" />
+    <air:FlightDetails Key="uj62IoWsTCiveUsAt5Pzsg==" Origin="MAA" Destination="DEL" DepartureTime="2016-01-21T06:15:00.000+05:30" ArrivalTime="2016-01-21T09:05:00.000+05:30" FlightTime="170" TravelTime="1065" Equipment="321" OriginTerminal="1" DestinationTerminal="3" />
+    <air:FlightDetails Key="A1mkDZumR9OA/PIFHBtpmw==" Origin="DEL" Destination="BOM" DepartureTime="2016-01-21T10:00:00.000+05:30" ArrivalTime="2016-01-21T12:15:00.000+05:30" FlightTime="135" TravelTime="1065" Equipment="321" OriginTerminal="3" DestinationTerminal="2" />
+    <air:FlightDetails Key="+MkX9nJ2Tii7RbGT6+cpJQ==" Origin="MAA" Destination="DEL" DepartureTime="2016-01-21T08:45:00.000+05:30" ArrivalTime="2016-01-21T11:30:00.000+05:30" FlightTime="165" TravelTime="1245" Equipment="320" OriginTerminal="4" DestinationTerminal="3" />
+    <air:FlightDetails Key="I9D2FGJ5QXy1p9qFTlNphg==" Origin="DEL" Destination="BOM" DepartureTime="2016-01-21T13:00:00.000+05:30" ArrivalTime="2016-01-21T15:15:00.000+05:30" FlightTime="135" TravelTime="1245" Equipment="321" OriginTerminal="3" DestinationTerminal="2" />
+    <air:FlightDetails Key="v08CPu5JRxq7Ug/85by5vQ==" Origin="CMB" Destination="TRV" DepartureTime="2016-01-20T07:45:00.000+05:30" ArrivalTime="2016-01-20T08:45:00.000+05:30" FlightTime="60" TravelTime="510" Equipment="320" DestinationTerminal="2" />
+    <air:FlightDetails Key="zXXUlVDRQJ6B1LCT83/jQA==" Origin="TRV" Destination="BOM" DepartureTime="2016-01-20T14:10:00.000+05:30" ArrivalTime="2016-01-20T16:15:00.000+05:30" FlightTime="125" TravelTime="510" Equipment="737" OriginTerminal="1" DestinationTerminal="1B" />
+    <air:FlightDetails Key="AuyITI8EQsiYRDNFd1rSfA==" Origin="CMB" Destination="DOH" DepartureTime="2016-01-20T09:25:00.000+05:30" ArrivalTime="2016-01-20T12:00:00.000+03:00" FlightTime="305" TravelTime="995" Equipment="346" />
+    <air:FlightDetails Key="XjhuCLPXQZmM1CKiVGyRqA==" Origin="DOH" Destination="BOM" DepartureTime="2016-01-20T20:20:00.000+03:00" ArrivalTime="2016-01-21T02:00:00.000+05:30" FlightTime="190" TravelTime="995" Equipment="77W" DestinationTerminal="2" />
+    <air:FlightDetails Key="dFl4gMfVROOsJEsyuHMi3g==" Origin="CMB" Destination="KHI" DepartureTime="2016-01-20T13:25:00.000+05:30" ArrivalTime="2016-01-20T16:20:00.000+05:00" FlightTime="205" TravelTime="1345" Equipment="320" DestinationTerminal="M" />
+    <air:FlightDetails Key="cf2kXd2bT6+fn4C0X25qWw==" Origin="KHI" Destination="BOM" DepartureTime="2016-01-21T09:40:00.000+05:00" ArrivalTime="2016-01-21T11:50:00.000+05:30" FlightTime="100" TravelTime="1345" Equipment="320" OriginTerminal="M" DestinationTerminal="2" />
+    <air:FlightDetails Key="/Xw2lR91QyWE1u0koalCFw==" Origin="CMB" Destination="IXM" DepartureTime="2016-01-20T14:10:00.000+05:30" ArrivalTime="2016-01-20T15:10:00.000+05:30" FlightTime="60" TravelTime="1695" Equipment="320" />
+    <air:FlightDetails Key="n0BbmcVfRc2kewqzIrmv7w==" Origin="IXM" Destination="MAA" Equipment="319" />
+    <air:FlightDetails Key="K/U+Xme4S0G1OfybwXGTzQ==" Origin="MAA" Destination="BOM" Equipment="319" />
+    <air:FlightDetails Key="xTAr3UlLRzeJ3acnNJZI0w==" Origin="TRV" Destination="BOM" DepartureTime="2016-01-20T14:30:00.000+05:30" ArrivalTime="2016-01-20T16:50:00.000+05:30" FlightTime="140" TravelTime="545" Equipment="320" OriginTerminal="2" DestinationTerminal="2" />
+    <air:FlightDetails Key="ZOYCYnhCRcaf0rV7DGiLGg==" Origin="CMB" Destination="CCU" DepartureTime="2016-01-20T06:35:00.000+05:30" ArrivalTime="2016-01-20T09:30:00.000+05:30" FlightTime="175" TravelTime="610" Equipment="320" />
+    <air:FlightDetails Key="Vl0syA7ETd6NKyvO0whh4w==" Origin="CCU" Destination="BOM" DepartureTime="2016-01-20T14:00:00.000+05:30" ArrivalTime="2016-01-20T16:45:00.000+05:30" FlightTime="165" TravelTime="610" Equipment="737" DestinationTerminal="1B" />
+    <air:FlightDetails Key="Hm/rQRchTA6XSgfNlm7Lsg==" Origin="CCU" Destination="BOM" DepartureTime="2016-01-20T11:35:00.000+05:30" ArrivalTime="2016-01-20T14:30:00.000+05:30" FlightTime="175" TravelTime="475" Equipment="737" DestinationTerminal="1B" />
+    <air:FlightDetails Key="boQTZwFjQ+6Uk+Hh6xGiIA==" Origin="CMB" Destination="MCT" DepartureTime="2016-01-20T19:05:00.000+05:30" ArrivalTime="2016-01-20T21:55:00.000+04:00" FlightTime="260" TravelTime="580" Equipment="320" />
+    <air:FlightDetails Key="ur9hCDpmTWqIrdenEVeuYQ==" Origin="MCT" Destination="BOM" DepartureTime="2016-01-21T00:20:00.000+04:00" ArrivalTime="2016-01-21T04:45:00.000+05:30" FlightTime="175" TravelTime="580" Equipment="321" DestinationTerminal="2" />
+    <air:FlightDetails Key="TVmBb5fFR7+4/bNICWLT8w==" Origin="MCT" Destination="BOM" DepartureTime="2016-01-21T00:25:00.000+04:00" ArrivalTime="2016-01-21T04:25:00.000+05:30" FlightTime="150" TravelTime="560" Equipment="738" DestinationTerminal="2" />
+    <air:FlightDetails Key="GkXhw3BMQd+PQUxdVM/jwQ==" Origin="CMB" Destination="KUL" DepartureTime="2016-01-20T07:30:00.000+05:30" ArrivalTime="2016-01-20T13:45:00.000+08:00" FlightTime="225" TravelTime="925" Equipment="321" DestinationTerminal="M" />
+    <air:FlightDetails Key="15XE6rxMQbWdMRZF4M8Vkw==" Origin="KUL" Destination="BOM" DepartureTime="2016-01-20T20:30:00.000+08:00" ArrivalTime="2016-01-20T22:55:00.000+05:30" FlightTime="295" TravelTime="925" Equipment="738" OriginTerminal="M" DestinationTerminal="2" />
+    <air:FlightDetails Key="VH+zmVcCQYmA7q8D77P0Cw==" Origin="CMB" Destination="BKK" DepartureTime="2016-01-20T01:30:00.000+05:30" ArrivalTime="2016-01-20T06:25:00.000+07:00" FlightTime="205" TravelTime="1230" Equipment="777" />
+    <air:FlightDetails Key="ZBCfIrIASzeeBvA/gcEzyw==" Origin="BKK" Destination="BOM" DepartureTime="2016-01-20T18:55:00.000+07:00" ArrivalTime="2016-01-20T22:00:00.000+05:30" FlightTime="275" TravelTime="1230" Equipment="744" DestinationTerminal="2" />
+    <air:FlightDetails Key="Vawk2vrkQAeuvuWL9B5tmA==" Origin="CMB" Destination="AUH" DepartureTime="2016-01-20T21:00:00.000+05:30" ArrivalTime="2016-01-21T00:25:00.000+04:00" FlightTime="295" TravelTime="675" Equipment="320" DestinationTerminal="1" />
+    <air:FlightDetails Key="w0SHpFenQ3eES8ogoRqYIg==" Origin="AUH" Destination="BOM" DepartureTime="2016-01-21T03:10:00.000+04:00" ArrivalTime="2016-01-21T08:15:00.000+05:30" FlightTime="215" TravelTime="675" Equipment="321" OriginTerminal="1" DestinationTerminal="2" />
+    <air:FlightDetails Key="KvLXBYH6TAOlbiQF/pcIyg==" Origin="CMB" Destination="SIN" DepartureTime="2016-01-20T01:00:00.000+05:30" ArrivalTime="2016-01-20T07:30:00.000+08:00" FlightTime="240" TravelTime="750" Equipment="320" DestinationTerminal="3" />
+    <air:FlightDetails Key="BgQZB9pYRXSdZYz2Jxgspw==" Origin="SIN" Destination="BOM" DepartureTime="2016-01-20T10:30:00.000+08:00" ArrivalTime="2016-01-20T13:30:00.000+05:30" FlightTime="330" TravelTime="750" Equipment="737" OriginTerminal="3" DestinationTerminal="2" />
+    <air:FlightDetails Key="lEEzCiWCR3uHQCfLXN/vxQ==" Origin="CMB" Destination="SIN" DepartureTime="2016-01-20T01:10:00.000+05:30" ArrivalTime="2016-01-20T07:40:00.000+08:00" FlightTime="240" TravelTime="1235" Equipment="333" DestinationTerminal="0" />
+    <air:FlightDetails Key="Qze0z7s3RxaOIy4o8fNsKQ==" Origin="SIN" Destination="BOM" DepartureTime="2016-01-20T18:55:00.000+08:00" ArrivalTime="2016-01-20T21:45:00.000+05:30" FlightTime="320" TravelTime="1235" Equipment="388" OriginTerminal="2" DestinationTerminal="2" />
+  </air:FlightDetailsList>
+  <air:AirSegmentList>
+    <air:AirSegment Key="S7+hgDDmQ22i/opc8GujSQ==" Group="0" Carrier="AI" FlightNumber="274" Origin="CMB" Destination="MAA" DepartureTime="2016-01-20T18:30:00.000+05:30" ArrivalTime="2016-01-20T19:50:00.000+05:30" FlightTime="80" Distance="402" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="0+zRB8j7QuahNqI7svciPw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="vNK2unOZRDawGd9FBALmjw==" Group="0" Carrier="AI" FlightNumber="569" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T06:20:00.000+05:30" ArrivalTime="2016-01-21T08:10:00.000+05:30" FlightTime="110" Distance="644" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="GOVoMDbeQniy9XHHXiz+IQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="0TRYWeWaQASUAq9K+efrHg==" Group="0" Carrier="AI" FlightNumber="672" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T16:15:00.000+05:30" ArrivalTime="2016-01-21T18:25:00.000+05:30" FlightTime="130" Distance="644" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="jHHpqBZsSVibggbrMIDt9g==" />
+    </air:AirSegment>
+    <air:AirSegment Key="ewWvL/BxRf2GIPCxSsVOvg==" Group="0" Carrier="9W" FlightNumber="255" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T06:10:00.000+05:30" ArrivalTime="2016-01-20T08:45:00.000+05:30" FlightTime="155" Distance="948" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|W7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="sTaNuJK0SFiNZ0cw8ft+aA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="Y4FqZKDgSoyNBxa8kukznw==" Group="0" Carrier="9W" FlightNumber="251" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T21:45:00.000+05:30" ArrivalTime="2016-01-21T00:25:00.000+05:30" FlightTime="160" Distance="948" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I6|P3|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|W1|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="QKbm+RbGTK2lWddKdSAZDA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="xfUlf0KURgSPHB7MBk1RRQ==" Group="0" Carrier="UL" FlightNumber="141" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T23:45:00.000+05:30" ArrivalTime="2016-01-21T02:10:00.000+05:30" FlightTime="145" Distance="948" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D7|I4|Y9|B9|P9|H9|K9|W9|M9|E9|L9|R9|V9|S9|N9|Q9|O9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="xR2J/etXTSeQ29yUVXvqgg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="Pm+kcYCHTeyWSUIoxe5fIA==" Group="0" Carrier="MJ" FlightNumber="2141" Origin="CMB" Destination="BOM" DepartureTime="2016-01-20T23:45:00.000+05:30" ArrivalTime="2016-01-21T02:10:00.000+05:30" FlightTime="145" Distance="948" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="UL" OperatingFlightNumber="141">SRILANKAN AIRLINES</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y4|B4|P4|H4|K4|W4|M4|E4|L4|R4|V4|S4|N4|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="xR2J/etXTSeQ29yUVXvqgg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="4hcXswjpSgumEFGtcZWMeQ==" Group="0" Carrier="AI" FlightNumber="282" Origin="CMB" Destination="DEL" DepartureTime="2016-01-20T08:20:00.000+05:30" ArrivalTime="2016-01-20T12:10:00.000+05:30" FlightTime="230" Distance="1489" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="F8Dr5BF0ST274VsFhITHjQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="NwXoyG4wQKa0Lh5j3O/How==" Group="0" Carrier="AI" FlightNumber="102" Origin="DEL" Destination="BOM" DepartureTime="2016-01-20T16:45:00.000+05:30" ArrivalTime="2016-01-20T18:55:00.000+05:30" FlightTime="130" Distance="708" ETicketability="Yes" Equipment="77W" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="F4|A4|C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="pCJZnswBSgmhNjh81wjqvQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="4Qkt4d4lQxagbvEER2hE0A==" Group="0" Carrier="AI" FlightNumber="659" Origin="DEL" Destination="BOM" DepartureTime="2016-01-20T17:00:00.000+05:30" ArrivalTime="2016-01-20T19:20:00.000+05:30" FlightTime="140" Distance="708" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="uzMM1Tq8RSa0Gr+lvwA4gg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="zKbCDw1iTumC1xXDkkjrSA==" Group="0" Carrier="AI" FlightNumber="440" Origin="MAA" Destination="DEL" DepartureTime="2016-01-21T06:15:00.000+05:30" ArrivalTime="2016-01-21T09:05:00.000+05:30" FlightTime="170" Distance="1095" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="uj62IoWsTCiveUsAt5Pzsg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="yx13+OHkTmeN1hMuCviAVQ==" Group="0" Carrier="AI" FlightNumber="865" Origin="DEL" Destination="BOM" DepartureTime="2016-01-21T10:00:00.000+05:30" ArrivalTime="2016-01-21T12:15:00.000+05:30" FlightTime="135" Distance="708" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="A1mkDZumR9OA/PIFHBtpmw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="BIxHuLuQRzm5vcfP85UWGg==" Group="0" Carrier="AI" FlightNumber="143" Origin="MAA" Destination="DEL" DepartureTime="2016-01-21T08:45:00.000+05:30" ArrivalTime="2016-01-21T11:30:00.000+05:30" FlightTime="165" Distance="1095" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="+MkX9nJ2Tii7RbGT6+cpJQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="S0UEocnHQ8qXGK9QIqHj8Q==" Group="0" Carrier="AI" FlightNumber="863" Origin="DEL" Destination="BOM" DepartureTime="2016-01-21T13:00:00.000+05:30" ArrivalTime="2016-01-21T15:15:00.000+05:30" FlightTime="135" Distance="708" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="I9D2FGJ5QXy1p9qFTlNphg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="nrKicwCWR1Cs9kfU4G3Aow==" Group="0" Carrier="UL" FlightNumber="161" Origin="CMB" Destination="TRV" DepartureTime="2016-01-20T07:45:00.000+05:30" ArrivalTime="2016-01-20T08:45:00.000+05:30" FlightTime="60" Distance="222" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D9|I5|Y9|B9|P9|H9|K9|W9|M9|E9|L9|R9|V9|S9|N9|Q9|O9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="v08CPu5JRxq7Ug/85by5vQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="t+utUNxTREWni7lcBUnWag==" Group="0" Carrier="9W" FlightNumber="389" Origin="TRV" Destination="BOM" DepartureTime="2016-01-20T14:10:00.000+05:30" ArrivalTime="2016-01-20T16:15:00.000+05:30" FlightTime="125" Distance="783" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="zXXUlVDRQJ6B1LCT83/jQA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="LFHw/KUxR2ueUJMaFw8Leg==" Group="0" Carrier="QR" FlightNumber="665" Origin="CMB" Destination="DOH" DepartureTime="2016-01-20T09:25:00.000+05:30" ArrivalTime="2016-01-20T12:00:00.000+03:00" FlightTime="305" Distance="2245" ETicketability="Yes" Equipment="346" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D9|I9|Y9|B9|H9|K9|M9|L9|V9|S9|N9|Q9|T9|O9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="AuyITI8EQsiYRDNFd1rSfA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="Q6tZ8gS6SxyZ7VWsQkoKnw==" Group="0" Carrier="QR" FlightNumber="556" Origin="DOH" Destination="BOM" DepartureTime="2016-01-20T20:20:00.000+03:00" ArrivalTime="2016-01-21T02:00:00.000+05:30" FlightTime="190" Distance="1424" ETicketability="Yes" Equipment="77W" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D9|I9|R9|Y9|B9|H9|K9|M9|L9|V9|S9|N9|Q9|T9|O9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="XjhuCLPXQZmM1CKiVGyRqA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="xyQPwlXCRh6rTfomXqaQTQ==" Group="0" Carrier="UL" FlightNumber="183" Origin="CMB" Destination="KHI" DepartureTime="2016-01-20T13:25:00.000+05:30" ArrivalTime="2016-01-20T16:20:00.000+05:00" FlightTime="205" Distance="1489" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="dFl4gMfVROOsJEsyuHMi3g==" />
+    </air:AirSegment>
+    <air:AirSegment Key="YNA77csUSnez6iueaRGzsA==" Group="0" Carrier="PK" FlightNumber="274" Origin="KHI" Destination="BOM" DepartureTime="2016-01-21T09:40:00.000+05:00" ArrivalTime="2016-01-21T11:50:00.000+05:30" FlightTime="100" Distance="544" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|G7|J7|B7|S7|Y7|H7|K7|M7|T7|N7|O7|I7|L7|U7|V7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="cf2kXd2bT6+fn4C0X25qWw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="+EXWYSOXRD2bnKhAjEs/Sw==" Group="0" Carrier="UL" FlightNumber="2935" Origin="CMB" Destination="IXM" DepartureTime="2016-01-20T14:10:00.000+05:30" ArrivalTime="2016-01-20T15:10:00.000+05:30" FlightTime="60" Distance="222" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="MJ" OperatingFlightNumber="305">MIHIN LANKA</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="/Xw2lR91QyWE1u0koalCFw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="yJX0OU91SAeR7BrXuPArfA==" Group="0" Carrier="AI" FlightNumber="672" Origin="IXM" Destination="BOM" DepartureTime="2016-01-21T14:05:00.000+05:30" ArrivalTime="2016-01-21T18:25:00.000+05:30" FlightTime="260" Distance="905" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" OptionalServicesIndicator="false" NumberOfStops="1">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="n0BbmcVfRc2kewqzIrmv7w==" />
+      <air:FlightDetailsRef Key="K/U+Xme4S0G1OfybwXGTzQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="CNrP4e7GR7i+x41vQ5zJmA==" Group="0" Carrier="AI" FlightNumber="668" Origin="TRV" Destination="BOM" DepartureTime="2016-01-20T14:30:00.000+05:30" ArrivalTime="2016-01-20T16:50:00.000+05:30" FlightTime="140" Distance="783" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="xTAr3UlLRzeJ3acnNJZI0w==" />
+    </air:AirSegment>
+    <air:AirSegment Key="kKrQSSE8SOqK+Mt2LpBsLA==" Group="0" Carrier="UL" FlightNumber="2931" Origin="CMB" Destination="CCU" DepartureTime="2016-01-20T06:35:00.000+05:30" ArrivalTime="2016-01-20T09:30:00.000+05:30" FlightTime="175" Distance="1211" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="MJ" OperatingFlightNumber="331">MIHIN LANKA</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="ZOYCYnhCRcaf0rV7DGiLGg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="X+5DXyVQREOjRyG/MkscOw==" Group="0" Carrier="9W" FlightNumber="624" Origin="CCU" Destination="BOM" DepartureTime="2016-01-20T14:00:00.000+05:30" ArrivalTime="2016-01-20T16:45:00.000+05:30" FlightTime="165" Distance="1035" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|W7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="Vl0syA7ETd6NKyvO0whh4w==" />
+    </air:AirSegment>
+    <air:AirSegment Key="GNUDDENjS+2P7NW/30MeZg==" Group="0" Carrier="9W" FlightNumber="630" Origin="CCU" Destination="BOM" DepartureTime="2016-01-20T11:35:00.000+05:30" ArrivalTime="2016-01-20T14:30:00.000+05:30" FlightTime="175" Distance="1035" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|W7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="Hm/rQRchTA6XSgfNlm7Lsg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="QKjOVGZSTjGQaUg+mNbigQ==" Group="0" Carrier="UL" FlightNumber="2925" Origin="CMB" Destination="MCT" DepartureTime="2016-01-20T19:05:00.000+05:30" ArrivalTime="2016-01-20T21:55:00.000+04:00" FlightTime="260" Distance="1816" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="MJ" OperatingFlightNumber="205">MIHIN LANKA</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="boQTZwFjQ+6Uk+Hh6xGiIA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="diZ7NgGAQ3GO69N7vjyNAw==" Group="0" Carrier="AI" FlightNumber="986" Origin="MCT" Destination="BOM" DepartureTime="2016-01-21T00:20:00.000+04:00" ArrivalTime="2016-01-21T04:45:00.000+05:30" FlightTime="175" Distance="974" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C4|D4|J4|Z4|Y9|B4|M4|H4|K4|Q4|V4|W4|G4|L4|U4|T4|S4|E4|N4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="ur9hCDpmTWqIrdenEVeuYQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="EnEovqRVR9uFU8EWQ3c0Mg==" Group="0" Carrier="9W" FlightNumber="539" Origin="MCT" Destination="BOM" DepartureTime="2016-01-21T00:25:00.000+04:00" ArrivalTime="2016-01-21T04:25:00.000+05:30" FlightTime="150" Distance="974" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="TVmBb5fFR7+4/bNICWLT8w==" />
+    </air:AirSegment>
+    <air:AirSegment Key="6HCV5wiESE6O5SPKdIPPvg==" Group="0" Carrier="UL" FlightNumber="314" Origin="CMB" Destination="KUL" DepartureTime="2016-01-20T07:30:00.000+05:30" ArrivalTime="2016-01-20T13:45:00.000+08:00" FlightTime="225" Distance="1526" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="GkXhw3BMQd+PQUxdVM/jwQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="LJX0gPz6RjGS7xO1oxgOtg==" Group="0" Carrier="MH" FlightNumber="194" Origin="KUL" Destination="BOM" DepartureTime="2016-01-20T20:30:00.000+08:00" ArrivalTime="2016-01-20T22:55:00.000+05:30" FlightTime="295" Distance="2245" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|Z4|I4|Y9|B9|H9|K9|M9|L9|V9|S9|N9|Q9|O9|G9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="15XE6rxMQbWdMRZF4M8Vkw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="uYFtiG5VSWGn0PvgbOrtwA==" Group="0" Carrier="TG" FlightNumber="308" Origin="CMB" Destination="BKK" DepartureTime="2016-01-20T01:30:00.000+05:30" ArrivalTime="2016-01-20T06:25:00.000+07:00" FlightTime="205" Distance="1489" ETicketability="Yes" Equipment="777" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C9|D9|J9|Z9|I9|R9|Y9|B9|M9|H9|Q9|T9|K9|S9|X9|V9|W8" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="VH+zmVcCQYmA7q8D77P0Cw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="y5L0QCsSTty4j92fXXPaeg==" Group="0" Carrier="TG" FlightNumber="317" Origin="BKK" Destination="BOM" DepartureTime="2016-01-20T18:55:00.000+07:00" ArrivalTime="2016-01-20T22:00:00.000+05:30" FlightTime="275" Distance="1878" ETicketability="Yes" Equipment="744" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C9|D9|J9|Z6|I5|R2|Y9|B9|M9|H9|Q9|T9|K9|S9|X9|V9|W9|N9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="ZBCfIrIASzeeBvA/gcEzyw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="jjmQdtPVSTaF5cpLpon7dw==" Group="0" Carrier="EY" FlightNumber="265" Origin="CMB" Destination="AUH" DepartureTime="2016-01-20T21:00:00.000+05:30" ArrivalTime="2016-01-21T00:25:00.000+04:00" FlightTime="295" Distance="2061" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J7|C7|D6|W6|Y7|B7|H7|K7|M7|Q7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="Vawk2vrkQAeuvuWL9B5tmA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="knOML3+lQh2izLk4yNuOCQ==" Group="0" Carrier="EY" FlightNumber="212" Origin="AUH" Destination="BOM" DepartureTime="2016-01-21T03:10:00.000+04:00" ArrivalTime="2016-01-21T08:15:00.000+05:30" FlightTime="215" Distance="1237" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J7|C7|D6|W6|Y7|B7|H7|K7|M7|Q7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="w0SHpFenQ3eES8ogoRqYIg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="Pka0j269RU6KcTc7DuQCDA==" Group="0" Carrier="HM" FlightNumber="5523" Origin="CMB" Destination="AUH" DepartureTime="2016-01-20T21:00:00.000+05:30" ArrivalTime="2016-01-21T00:25:00.000+04:00" FlightTime="295" Distance="2061" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="EY" OperatingFlightNumber="265">ETIHAD AIRWAYS</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|D4|C4|I4|Y9|B9|H9|K9|L9|W9|S9|M9|N9|V9|G9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="Vawk2vrkQAeuvuWL9B5tmA==" />
+    </air:AirSegment>
+    <air:AirSegment Key="GgJZ/SaXT5K++BaxxxoEGw==" Group="0" Carrier="HM" FlightNumber="5320" Origin="AUH" Destination="BOM" DepartureTime="2016-01-21T03:10:00.000+04:00" ArrivalTime="2016-01-21T08:15:00.000+05:30" FlightTime="215" Distance="1237" ETicketability="Yes" Equipment="321" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="EY" OperatingFlightNumber="212">ETIHAD AIRWAYS</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|D4|C4|I4|Y9|B9|H9|K9|L9|W9|S9|M9|N9|V9|G9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="w0SHpFenQ3eES8ogoRqYIg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="v+usadqtRMaswmo6I5mtFQ==" Group="0" Carrier="UL" FlightNumber="306" Origin="CMB" Destination="SIN" DepartureTime="2016-01-20T01:00:00.000+05:30" ArrivalTime="2016-01-20T07:30:00.000+08:00" FlightTime="240" Distance="1709" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J4|C4|D4|I4|Y7|B7|P4|H7|K7|W4|M7|E4|L7|R4|V7|S4|N7|Q4|O4" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="KvLXBYH6TAOlbiQF/pcIyg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="Y51dM2okQHS6Lutj2mc1+g==" Group="0" Carrier="9W" FlightNumber="9" Origin="SIN" Destination="BOM" DepartureTime="2016-01-20T10:30:00.000+08:00" ArrivalTime="2016-01-20T13:30:00.000+05:30" FlightTime="330" Distance="2437" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="C7|J7|Z7|I7|P7|Y7|M7|T7|U7|N7|L7|Q7|S7|K7|H7|V7|O7|W7|B7" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="BgQZB9pYRXSdZYz2Jxgspw==" />
+    </air:AirSegment>
+    <air:AirSegment Key="V6AZTIaHQlCb1sw0zqyU+Q==" Group="0" Carrier="SQ" FlightNumber="469" Origin="CMB" Destination="SIN" DepartureTime="2016-01-20T01:10:00.000+05:30" ArrivalTime="2016-01-20T07:40:00.000+08:00" FlightTime="240" Distance="1709" ETicketability="Yes" Equipment="333" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="Z9|C9|J9|U9|D8|Y9|B9|E9|M9|H9|Q9|N9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="lEEzCiWCR3uHQCfLXN/vxQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="6DnW9jbsRwmxM19ohGzmMw==" Group="0" Carrier="SQ" FlightNumber="424" Origin="SIN" Destination="BOM" DepartureTime="2016-01-20T18:55:00.000+08:00" ArrivalTime="2016-01-20T21:45:00.000+05:30" FlightTime="320" Distance="2437" ETicketability="Yes" Equipment="388" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="R9|F9|A8|Z9|C9|J9|U7|D9|S9|T9|P9|Y9|B9|E9|M9|H9|W9|Q9|N9|L9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="Qze0z7s3RxaOIy4o8fNsKQ==" />
+    </air:AirSegment>
+    <air:AirSegment Key="u4IWSZETTPicSArtusyGuQ==" Group="0" Carrier="QF" FlightNumber="3420" Origin="CMB" Destination="SIN" DepartureTime="2016-01-20T01:00:00.000+05:30" ArrivalTime="2016-01-20T07:30:00.000+08:00" FlightTime="240" Distance="1709" ETicketability="Yes" Equipment="320" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="UL" OperatingFlightNumber="306">SRILANKAN AIRLINES</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D9|I7|Y9|B9|H9|K9|M9|L9|V9|S9|N9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="KvLXBYH6TAOlbiQF/pcIyg==" />
+    </air:AirSegment>
+    <air:AirSegment Key="QAtahIfKRZuUSSn+iuo7Ag==" Group="0" Carrier="QF" FlightNumber="3957" Origin="SIN" Destination="BOM" DepartureTime="2016-01-20T10:30:00.000+08:00" ArrivalTime="2016-01-20T13:30:00.000+05:30" FlightTime="330" Distance="2437" ETicketability="Yes" Equipment="737" ChangeOfPlane="false" OptionalServicesIndicator="false">
+      <air:CodeshareInfo OperatingCarrier="9W" OperatingFlightNumber="9">JET*AIRWAYS*INDIA*LTD</air:CodeshareInfo>
+      <air:AirAvailInfo ProviderCode="1P">
+        <air:BookingCodeInfo BookingCounts="J9|C9|D9|I9|Y9|B9|H9|K9|M9|L9|V9|S9|N9|Q9|O9" />
+      </air:AirAvailInfo>
+      <air:FlightDetailsRef Key="BgQZB9pYRXSdZYz2Jxgspw==" />
+    </air:AirSegment>
+  </air:AirSegmentList>
+  <air:FareInfoList>
+    <air:FareInfo Key="v522bUSWSXm0t0F5QZx5sw==" FareBasis="LOW" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD170.00" NegotiatedFare="false" NotValidBefore="2016-01-21" NotValidAfter="2016-01-21">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="v522bUSWSXm0t0F5QZx5sw==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^LOW^AI^^</air:FareRuleKey>
+      <air:Brand Key="PBY+ybZESUyRZWykaYRdzA==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="8HBB1IjWS0ysWGmQvNxL1w==" FareBasis="K2OWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD194.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="8HBB1IjWS0ysWGmQvNxL1w==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^K2OWLK^9W^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="Ial5EvE3QcWcpj8/DLRRQQ==" FareBasis="ROWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD219.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="Ial5EvE3QcWcpj8/DLRRQQ==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^ROWLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="jkv+fPqCTzWIr/gqmnQ0Rw==" FareBasis="REFOWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD219.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="jkv+fPqCTzWIr/gqmnQ0Rw==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^REFOWLK^MJ^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="p9naEuX8T+iLahtFxoSeQQ==" FareBasis="TOWLKD" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD280.00" NegotiatedFare="false" NotValidBefore="2016-01-21" NotValidAfter="2016-01-21">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^TOWLKD^AI^^</air:FareRuleKey>
+      <air:Brand Key="aUGRdlt9Sqya8c/7QaSbHw==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="OSI7QpHjScquZTuvylqmTA==" FareBasis="LAPOWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="TRV" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD122.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="OSI7QpHjScquZTuvylqmTA==" ProviderCode="1P">dir-CMB^TRV^2016020^ALL^LAPOWLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="nh8JH6fwTUeT/x54vrAlXQ==" FareBasis="Y2OW" PassengerTypeCode="ADT" Origin="TRV" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD468.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:FareSurcharge Key="KkUos840STajSufoZaZTqA==" Type="Other" Amount="NUC20.00" />
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="nh8JH6fwTUeT/x54vrAlXQ==" ProviderCode="1P">dir-TRV^BOM^2016020^ALL^Y2OW^9W^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="jUv9TcjmSLSlF/lxTLaX9g==" FareBasis="NJR4R1RI" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD656.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="jUv9TcjmSLSlF/lxTLaX9g==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^NJR4R1RI^QR^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="1D+LFz7IQX2YlRLtCTDPvw==" FareBasis="MAPOWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="KHI" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD363.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="1D+LFz7IQX2YlRLtCTDPvw==" ProviderCode="1P">dir-CMB^KHI^2016020^ALL^MAPOWLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="aGk/ZyMUSumhhHA1ZfrDVQ==" FareBasis="NLOWPK1" PassengerTypeCode="ADT" Origin="KHI" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD302.00" NegotiatedFare="false" NotValidBefore="2016-01-21" NotValidAfter="2016-01-21">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="aGk/ZyMUSumhhHA1ZfrDVQ==" ProviderCode="1P">dir-KHI^BOM^2016020^ALL^NLOWPK1^PK^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="bxeqMwd+TOCmUCI99qTJxw==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="CMB" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD759.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="bxeqMwd+TOCmUCI99qTJxw==" ProviderCode="1P">dir-CMB^BOM^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="S7RKUUozQh2HJ155h179EA==" FareBasis="SOWMJLK" PassengerTypeCode="ADT" Origin="CMB" Destination="CCU" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD200.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:FareSurcharge Key="MZ+HgaWFQ+yAEcSzpeczgQ==" Type="Other" Amount="NUC3.00" />
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="S7RKUUozQh2HJ155h179EA==" ProviderCode="1P">dir-CMB^CCU^2016020^ALL^SOWMJLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="jSAITzdlQV6U0At4dLxHCQ==" FareBasis="Y2OW" PassengerTypeCode="ADT" Origin="CCU" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD564.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:FareSurcharge Key="lw0X4S2RQku1YABQBK8WQA==" Type="Other" Amount="NUC20.00" />
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="jSAITzdlQV6U0At4dLxHCQ==" ProviderCode="1P">dir-CCU^BOM^2016020^ALL^Y2OW^9W^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="3MIlU/l1Tmau8x4d9k63Tg==" FareBasis="QOWMJLK" PassengerTypeCode="ADT" Origin="CMB" Destination="MCT" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD141.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:FareSurcharge Key="PTqEcaQHQuOhanICpBosGw==" Type="Other" Amount="NUC3.00" />
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="3MIlU/l1Tmau8x4d9k63Tg==" ProviderCode="1P">dir-CMB^MCT^2016020^ALL^QOWMJLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="kjp+liBpT1mCgFZJSL8VzQ==" FareBasis="Y" PassengerTypeCode="ADT" Origin="MCT" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD705.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="kjp+liBpT1mCgFZJSL8VzQ==" ProviderCode="1P">dir-MCT^BOM^2016020^ALL^Y^YY^^</air:FareRuleKey>
+      <air:Brand Key="W/hFsTAkQciL/pwvzux6eA==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="F8e/VfXdQRmT0T4rnWJIgg==" FareBasis="Y" PassengerTypeCode="ADT" Origin="MCT" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD705.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="F8e/VfXdQRmT0T4rnWJIgg==" ProviderCode="1P">dir-MCT^BOM^2016020^ALL^Y^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="UaheYfDsREG0CMGt2Bf+3g==" FareBasis="SOWLK" PassengerTypeCode="ADT" Origin="CMB" Destination="KUL" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD162.00" NegotiatedFare="false" NotValidBefore="2016-01-20" NotValidAfter="2016-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="UaheYfDsREG0CMGt2Bf+3g==" ProviderCode="1P">dir-CMB^KUL^2016020^ALL^SOWLK^UL^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="FRjFVoTJTda1H+CKOuTqBw==" FareBasis="YIFMH" PassengerTypeCode="ADT" Origin="KUL" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD1294.00" NegotiatedFare="false">
+      <air:FareSurcharge Key="MuHlDYmzQfmJUFx/4rAvcg==" Type="Other" Amount="NUC15.00" />
+      <air:FareSurcharge Key="0qLKCtlrSquGqNPa5m83Qg==" Type="Other" Amount="NUC2.31" />
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="FRjFVoTJTda1H+CKOuTqBw==" ProviderCode="1P">dir-KUL^BOM^2016020^ALL^YIFMH^MH^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="8bjXE+rwSwG7kX8zS6q2rQ==" FareBasis="YOMTG" PassengerTypeCode="ADT" Origin="CMB" Destination="BKK" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD527.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="8bjXE+rwSwG7kX8zS6q2rQ==" ProviderCode="1P">dir-CMB^BKK^2016020^ALL^YOMTG^TG^^</air:FareRuleKey>
+      <air:Brand Key="p0mHVOu7TuOmET0eHHDatQ==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="qHAz8kguRBuMVTe4ZUXA4Q==" FareBasis="YOMTG" PassengerTypeCode="ADT" Origin="BKK" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD911.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="qHAz8kguRBuMVTe4ZUXA4Q==" ProviderCode="1P">dir-BKK^BOM^2016020^ALL^YOMTG^TG^^</air:FareRuleKey>
+      <air:Brand Key="2ssYN/EzSEO4RF42C9+JwA==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="x9F3IIxpRGaVQllOQGKuQg==" FareBasis="YRTLK" PassengerTypeCode="ADT" Origin="CMB" Destination="AUH" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD550.00" NegotiatedFare="false" NotValidAfter="2017-01-20">
+      <air:FareTicketDesignator Value="YF" />
+      <air:FareSurcharge Key="wlJY0qIwQoKUvc4BMXhihA==" Type="Other" Amount="NUC52.00" />
+      <air:BaggageAllowance>
+        <air:NumberOfPieces>2</air:NumberOfPieces>
+        <air:MaxWeight />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="x9F3IIxpRGaVQllOQGKuQg==" ProviderCode="1P">dir-CMB^AUH^2016020^ALL^YRTLK^EY^^</air:FareRuleKey>
+      <air:Brand Key="9vZ/l5f8T22kpN0kEQXd0w==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="leDcZrqZQre1hUbZ+2SkTw==" FareBasis="YRT11" PassengerTypeCode="ADT" Origin="AUH" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD1284.00" NegotiatedFare="false" NotValidAfter="2017-01-20">
+      <air:FareTicketDesignator Value="YF" />
+      <air:BaggageAllowance>
+        <air:NumberOfPieces>2</air:NumberOfPieces>
+        <air:MaxWeight />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="leDcZrqZQre1hUbZ+2SkTw==" ProviderCode="1P">dir-AUH^BOM^2016020^ALL^YRT11^EY^^</air:FareRuleKey>
+      <air:Brand Key="C1bITrKwRk+f/2lukuzl5Q==" BrandFound="false" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="JXkxWYuaTJynYrqctJh6/A==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="CMB" Destination="AUH" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD1049.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:NumberOfPieces>2</air:NumberOfPieces>
+        <air:MaxWeight />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="JXkxWYuaTJynYrqctJh6/A==" ProviderCode="1P">dir-CMB^AUH^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="c5zEdDrFSJeIIUTXDf/urg==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="AUH" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD1211.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:NumberOfPieces>2</air:NumberOfPieces>
+        <air:MaxWeight />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="c5zEdDrFSJeIIUTXDf/urg==" ProviderCode="1P">dir-AUH^BOM^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="V/NaCX+rRjSvUMDius2o4w==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="CMB" Destination="SIN" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD714.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="V/NaCX+rRjSvUMDius2o4w==" ProviderCode="1P">dir-CMB^SIN^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="hfoIJyjPT/mioi+SftMJPQ==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="SIN" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD2497.00" NegotiatedFare="false">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="hfoIJyjPT/mioi+SftMJPQ==" ProviderCode="1P">dir-SIN^BOM^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+    </air:FareInfo>
+    <air:FareInfo Key="a5Y8hEksTAuCAQkBRoRkAg==" FareBasis="YRTLK6" PassengerTypeCode="ADT" Origin="CMB" Destination="SIN" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD618.00" NegotiatedFare="false" NotValidAfter="2017-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="a5Y8hEksTAuCAQkBRoRkAg==" ProviderCode="1P">dir-CMB^SIN^2016020^ALL^YRTLK6^SQ^^</air:FareRuleKey>
+      <air:Brand Key="8kmLMTjFQ8KFDpGouENtCw==" BrandID="5705" UpSellBrandFound="false" />
+    </air:FareInfo>
+    <air:FareInfo Key="/Bi/N9yjSHK8EKmWMsnzeg==" FareBasis="YIF" PassengerTypeCode="ADT" Origin="SIN" Destination="BOM" EffectiveDate="2016-01-07T06:08:00.000+00:00" DepartureDate="2016-01-20" Amount="SGD2497.00" NegotiatedFare="false" NotValidAfter="2017-01-20">
+      <air:BaggageAllowance>
+        <air:MaxWeight Value="30" Unit="Kilograms" />
+      </air:BaggageAllowance>
+      <air:FareRuleKey FareInfoRef="/Bi/N9yjSHK8EKmWMsnzeg==" ProviderCode="1P">dir-SIN^BOM^2016020^ALL^YIF^YY^^</air:FareRuleKey>
+      <air:Brand Key="AGwh7qnhS9aL8+5FTtuB/g==" BrandID="5705" UpSellBrandFound="false" />
+    </air:FareInfo>
+  </air:FareInfoList>
+  <air:RouteList>
+    <air:Route Key="v8UA0f+MRLOKNKlYUVUUIg==">
+      <air:Leg Key="xAucCOoPQ3OjVxRLdmFM4Q==" Group="0" Origin="CMB" Destination="BOM" />
+    </air:Route>
+  </air:RouteList>
+  <air:AirPricePointList>
+    <air:AirPricePoint Key="0xruajTVQRmBirUMVpyVDw==" TotalPrice="SGD289.00" BasePrice="LKR17000" ApproximateTotalPrice="USD206.89" ApproximateBasePrice="USD121.70" EquivalentBasePrice="SGD170.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19" CompleteItinerary="true">
+      <air:AirPricingInfo Key="fcqtU88NQZmlhJjCZ3S3/w==" TotalPrice="SGD289.00" BasePrice="LKR17000" ApproximateTotalPrice="USD206.89" ApproximateBasePrice="USD121.70" EquivalentBasePrice="SGD170.00" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="AI" ProviderCode="1P">
+        <air:FareInfoRef Key="v522bUSWSXm0t0F5QZx5sw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:FareCalc>CMB AI X/MAA AI BOM122.92NUC122.92END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD21.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD29.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="RXVva0o+TSakkjWmt0gBVQ==" TravelTime="P0DT13H40M0S">
+              <air:BookingInfo BookingCode="L" CabinClass="Economy" FareInfoRef="v522bUSWSXm0t0F5QZx5sw==" SegmentRef="S7+hgDDmQ22i/opc8GujSQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="v522bUSWSXm0t0F5QZx5sw==" SegmentRef="vNK2unOZRDawGd9FBALmjw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+            <air:Option Key="rjLyxN5rRpW4QQf7uvAkqg==" TravelTime="P0DT23H55M0S">
+              <air:BookingInfo BookingCode="L" CabinClass="Economy" FareInfoRef="v522bUSWSXm0t0F5QZx5sw==" SegmentRef="S7+hgDDmQ22i/opc8GujSQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="v522bUSWSXm0t0F5QZx5sw==" SegmentRef="0TRYWeWaQASUAq9K+efrHg==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="KT8iu9sIRtKcSEqZ+eR1zw==" TotalPrice="SGD313.00" BasePrice="LKR19400" ApproximateTotalPrice="USD224.07" ApproximateBasePrice="USD138.88" EquivalentBasePrice="SGD194.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19" CompleteItinerary="true">
+      <air:AirPricingInfo Key="whE4/SXaQKO0V2699T0mJA==" TotalPrice="SGD313.00" BasePrice="LKR19400" ApproximateTotalPrice="USD224.07" ApproximateBasePrice="USD138.88" EquivalentBasePrice="SGD194.00" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="9W" ProviderCode="1P">
+        <air:FareInfoRef Key="8HBB1IjWS0ysWGmQvNxL1w==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:FareCalc>CMB 9W BOM140.27NUC140.27END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD19.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD29.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="PJW0tuZuTkygSTyg4QR/Fw==" TravelTime="P0DT2H35M0S">
+              <air:BookingInfo BookingCode="K" CabinClass="Economy" FareInfoRef="8HBB1IjWS0ysWGmQvNxL1w==" SegmentRef="ewWvL/BxRf2GIPCxSsVOvg==" />
+            </air:Option>
+            <air:Option Key="492y0HjqQLCzjlCyC+PV+A==" TravelTime="P0DT2H40M0S">
+              <air:BookingInfo BookingCode="K" CabinClass="Economy" FareInfoRef="8HBB1IjWS0ysWGmQvNxL1w==" SegmentRef="Y4FqZKDgSoyNBxa8kukznw==" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="BbxrAq/nRSqlRavXkUqB4w==" TotalPrice="SGD344.70" BasePrice="LKR21900" ApproximateTotalPrice="USD246.77" ApproximateBasePrice="USD156.78" EquivalentBasePrice="SGD219.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="RuMDVESuQtOFMIaBLXcPSA==" TotalPrice="SGD344.70" BasePrice="LKR21900" ApproximateTotalPrice="USD246.77" ApproximateBasePrice="USD156.78" EquivalentBasePrice="SGD219.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="Ial5EvE3QcWcpj8/DLRRQQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL BOM158.35NUC158.35END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD44.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="VOZ157YHQzWwXqaFto1UpQ==" TravelTime="P0DT2H25M0S">
+              <air:BookingInfo BookingCode="R" CabinClass="Economy" FareInfoRef="Ial5EvE3QcWcpj8/DLRRQQ==" SegmentRef="xfUlf0KURgSPHB7MBk1RRQ==" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="49F+PGRGSlGljZfJ8C+TSA==" TotalPrice="SGD344.70" BasePrice="LKR21900" ApproximateTotalPrice="USD246.77" ApproximateBasePrice="USD156.78" EquivalentBasePrice="SGD219.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="KC777GhMQYqxb1VLeU0f0w==" TotalPrice="SGD344.70" BasePrice="LKR21900" ApproximateTotalPrice="USD246.77" ApproximateBasePrice="USD156.78" EquivalentBasePrice="SGD219.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="MJ" ProviderCode="1P">
+        <air:FareInfoRef Key="jkv+fPqCTzWIr/gqmnQ0Rw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB MJ BOM158.35NUC158.35END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD44.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="d3dfCvjXS5COoQ3/oqmBSA==" TravelTime="P0DT2H25M0S">
+              <air:BookingInfo BookingCode="R" CabinClass="Economy" FareInfoRef="jkv+fPqCTzWIr/gqmnQ0Rw==" SegmentRef="Pm+kcYCHTeyWSUIoxe5fIA==" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="a9pFWtBbSv6YHe1m+GuJEg==" TotalPrice="SGD399.00" BasePrice="LKR28000" ApproximateTotalPrice="USD285.64" ApproximateBasePrice="USD200.45" EquivalentBasePrice="SGD280.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19" CompleteItinerary="true">
+      <air:AirPricingInfo Key="M5SqbeHBSQe5dq01XtfwVQ==" TotalPrice="SGD399.00" BasePrice="LKR28000" ApproximateTotalPrice="USD285.64" ApproximateBasePrice="USD200.45" EquivalentBasePrice="SGD280.00" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="AI" ProviderCode="1P">
+        <air:FareInfoRef Key="p9naEuX8T+iLahtFxoSeQQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:FareCalc>CMB AI X/DEL AI BOM202.45NUC202.45END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD21.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD39.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="cHDLkeRFStefIP+E4SDoZQ==" TravelTime="P0DT10H35M0S">
+              <air:BookingInfo BookingCode="T" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="4hcXswjpSgumEFGtcZWMeQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="NwXoyG4wQKa0Lh5j3O/How==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+            <air:Option Key="8uMi5m7SReyvsCkv4ESYEA==" TravelTime="P0DT11H0M0S">
+              <air:BookingInfo BookingCode="T" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="4hcXswjpSgumEFGtcZWMeQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="4Qkt4d4lQxagbvEER2hE0A==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="tiHO7cjqTXm0g3ZnKrQvGw==" TotalPrice="SGD399.00" BasePrice="LKR28000" ApproximateTotalPrice="USD285.64" ApproximateBasePrice="USD200.45" EquivalentBasePrice="SGD280.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19" CompleteItinerary="true">
+      <air:AirPricingInfo Key="cHZUHCaoSGigHxD0jWqy+w==" TotalPrice="SGD399.00" BasePrice="LKR28000" ApproximateTotalPrice="USD285.64" ApproximateBasePrice="USD200.45" EquivalentBasePrice="SGD280.00" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="AI" ProviderCode="1P">
+        <air:FareInfoRef Key="p9naEuX8T+iLahtFxoSeQQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:FareCalc>CMB AI X/MAA AI X/DEL AI BOM202.45NUC202.45END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD21.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD39.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="25yUMcUqQdeJg7Wxbbu8hQ==" TravelTime="P0DT17H45M0S">
+              <air:BookingInfo BookingCode="T" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="S7+hgDDmQ22i/opc8GujSQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="zKbCDw1iTumC1xXDkkjrSA==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="yx13+OHkTmeN1hMuCviAVQ==" />
+              <air:Connection SegmentIndex="0" />
+              <air:Connection SegmentIndex="1" />
+            </air:Option>
+            <air:Option Key="ogwExeu6QDKC/ydpY7Fwsg==" TravelTime="P0DT20H45M0S">
+              <air:BookingInfo BookingCode="T" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="S7+hgDDmQ22i/opc8GujSQ==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="BIxHuLuQRzm5vcfP85UWGg==" />
+              <air:BookingInfo BookingCode="V" CabinClass="Economy" FareInfoRef="p9naEuX8T+iLahtFxoSeQQ==" SegmentRef="S0UEocnHQ8qXGK9QIqHj8Q==" />
+              <air:Connection SegmentIndex="0" />
+              <air:Connection SegmentIndex="1" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="odTVAYnIR5ONmh1owVb7Tg==" TotalPrice="SGD715.70" BasePrice="LKR59100" ApproximateTotalPrice="USD512.37" ApproximateBasePrice="USD422.38" EquivalentBasePrice="SGD590.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="7WSIWI39RyO6b3+kmKS6YA==" TotalPrice="SGD715.70" BasePrice="LKR59100" ApproximateTotalPrice="USD512.37" ApproximateBasePrice="USD422.38" EquivalentBasePrice="SGD590.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-13T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="OSI7QpHjScquZTuvylqmTA==" />
+        <air:FareInfoRef Key="nh8JH6fwTUeT/x54vrAlXQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL TRV88.93 9W BOM Q20.00 317.84NUC426.77END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD44.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="28RUuon0SDa4nHvhBFSCIg==" TravelTime="P0DT8H30M0S">
+              <air:BookingInfo BookingCode="L" CabinClass="Economy" FareInfoRef="OSI7QpHjScquZTuvylqmTA==" SegmentRef="nrKicwCWR1Cs9kfU4G3Aow==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="nh8JH6fwTUeT/x54vrAlXQ==" SegmentRef="t+utUNxTREWni7lcBUnWag==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="IzUt/CGlRxOIY79WxGPr3Q==" TotalPrice="SGD775.70" BasePrice="LKR65700" ApproximateTotalPrice="USD555.32" ApproximateBasePrice="USD469.63" EquivalentBasePrice="SGD656.00" Taxes="SGD119.70" ApproximateTaxes="USD85.69" CompleteItinerary="true">
+      <air:AirPricingInfo Key="iNoYvdAgTsSoogsgZMWw5g==" TotalPrice="SGD775.70" BasePrice="LKR65700" ApproximateTotalPrice="USD555.32" ApproximateBasePrice="USD469.63" EquivalentBasePrice="SGD656.00" Taxes="SGD119.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="QR" ProviderCode="1P">
+        <air:FareInfoRef Key="jUv9TcjmSLSlF/lxTLaX9g==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="PZ" Amount="SGD0.70" />
+        <air:FareCalc>CMB QR X/DOH QR BOM475.05NUC475.05END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD41.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD48.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="YsXncWF4SF6tAXWqetb+xA==" TravelTime="P0DT16H35M0S">
+              <air:BookingInfo BookingCode="N" CabinClass="Economy" FareInfoRef="jUv9TcjmSLSlF/lxTLaX9g==" SegmentRef="LFHw/KUxR2ueUJMaFw8Leg==" />
+              <air:BookingInfo BookingCode="N" CabinClass="Economy" FareInfoRef="jUv9TcjmSLSlF/lxTLaX9g==" SegmentRef="Q6tZ8gS6SxyZ7VWsQkoKnw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="ERX6Mf7gRU+7WZ9RBeiatg==" TotalPrice="SGD790.70" BasePrice="LKR66600" ApproximateTotalPrice="USD566.06" ApproximateBasePrice="USD476.07" EquivalentBasePrice="SGD665.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="S8Q25H9eR9GXIZunXqY/tQ==" TotalPrice="SGD790.70" BasePrice="LKR66600" ApproximateTotalPrice="USD566.06" ApproximateBasePrice="USD476.07" EquivalentBasePrice="SGD665.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-13T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="1D+LFz7IQX2YlRLtCTDPvw==" />
+        <air:FareInfoRef Key="aGk/ZyMUSumhhHA1ZfrDVQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL KHI262.47PK BOM218.62NUC481.09END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD44.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="/UrvPsMLSSuIDOVBqpTLCw==" TravelTime="P0DT22H25M0S">
+              <air:BookingInfo BookingCode="M" CabinClass="Economy" FareInfoRef="1D+LFz7IQX2YlRLtCTDPvw==" SegmentRef="xyQPwlXCRh6rTfomXqaQTQ==" />
+              <air:BookingInfo BookingCode="N" CabinClass="Economy" FareInfoRef="aGk/ZyMUSumhhHA1ZfrDVQ==" SegmentRef="YNA77csUSnez6iueaRGzsA==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="LW46RzKRTwyPiWhoGeqspA==" TotalPrice="SGD884.70" BasePrice="LKR76000" ApproximateTotalPrice="USD633.36" ApproximateBasePrice="USD543.37" EquivalentBasePrice="SGD759.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="vFfaYCdDSqeTdkP1W5he6w==" TotalPrice="SGD884.70" BasePrice="LKR76000" ApproximateTotalPrice="USD633.36" ApproximateBasePrice="USD543.37" EquivalentBasePrice="SGD759.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="bxeqMwd+TOCmUCI99qTJxw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL X/IXM AI BOM M549.53NUC549.53END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="3D6ZHN0NS62PIt7VmMzAJw==" TravelTime="P1DT4H15M0S">
+              <air:BookingInfo BookingCode="Q" CabinClass="Economy" FareInfoRef="bxeqMwd+TOCmUCI99qTJxw==" SegmentRef="+EXWYSOXRD2bnKhAjEs/Sw==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="bxeqMwd+TOCmUCI99qTJxw==" SegmentRef="yJX0OU91SAeR7BrXuPArfA==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="B8+Yab4NRMuMaHETQ6Xv4Q==" TotalPrice="SGD884.70" BasePrice="LKR76000" ApproximateTotalPrice="USD633.36" ApproximateBasePrice="USD543.37" EquivalentBasePrice="SGD759.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="7uRreYVhTnCbQwbR+L71PQ==" TotalPrice="SGD884.70" BasePrice="LKR76000" ApproximateTotalPrice="USD633.36" ApproximateBasePrice="USD543.37" EquivalentBasePrice="SGD759.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="bxeqMwd+TOCmUCI99qTJxw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL X/TRV AI BOM M549.53NUC549.53END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="Yc10B8gQRSONdf58umeNpQ==" TravelTime="P0DT9H5M0S">
+              <air:BookingInfo BookingCode="Q" CabinClass="Economy" FareInfoRef="bxeqMwd+TOCmUCI99qTJxw==" SegmentRef="nrKicwCWR1Cs9kfU4G3Aow==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="bxeqMwd+TOCmUCI99qTJxw==" SegmentRef="CNrP4e7GR7i+x41vQ5zJmA==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="9F6223o5QNajOSDfFp40Kw==" TotalPrice="SGD889.70" BasePrice="LKR76500" ApproximateTotalPrice="USD636.94" ApproximateBasePrice="USD546.95" EquivalentBasePrice="SGD764.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="IXjJScQOTBqfsThjAOVGfA==" TotalPrice="SGD889.70" BasePrice="LKR76500" ApproximateTotalPrice="USD636.94" ApproximateBasePrice="USD546.95" EquivalentBasePrice="SGD764.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="S7RKUUozQh2HJ155h179EA==" />
+        <air:FareInfoRef Key="jSAITzdlQV6U0At4dLxHCQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL CCU Q3.00 141.72 9W BOM Q20.00 387.72NUC552.44END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD21.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD31.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="rumTiZlzTAq8AvDLElJnCg==" TravelTime="P0DT10H10M0S">
+              <air:BookingInfo BookingCode="S" CabinClass="Economy" FareInfoRef="S7RKUUozQh2HJ155h179EA==" SegmentRef="kKrQSSE8SOqK+Mt2LpBsLA==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="jSAITzdlQV6U0At4dLxHCQ==" SegmentRef="X+5DXyVQREOjRyG/MkscOw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="qZ26uoWSRJOsmVw64MOPHQ==" TotalPrice="SGD889.70" BasePrice="LKR76500" ApproximateTotalPrice="USD636.94" ApproximateBasePrice="USD546.95" EquivalentBasePrice="SGD764.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="Hu7EGHgqQB+vbZKV+skecw==" TotalPrice="SGD889.70" BasePrice="LKR76500" ApproximateTotalPrice="USD636.94" ApproximateBasePrice="USD546.95" EquivalentBasePrice="SGD764.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="S7RKUUozQh2HJ155h179EA==" />
+        <air:FareInfoRef Key="jSAITzdlQV6U0At4dLxHCQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL CCU Q3.00 141.72 9W BOM Q20.00 387.72NUC552.44END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD21.00</air:Amount>
+        </air:ChangePenalty>
+        <air:CancelPenalty>
+          <air:Amount>SGD31.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="ammZTBwNT2aNl8bHAMg9oQ==" TravelTime="P0DT7H55M0S">
+              <air:BookingInfo BookingCode="S" CabinClass="Economy" FareInfoRef="S7RKUUozQh2HJ155h179EA==" SegmentRef="kKrQSSE8SOqK+Mt2LpBsLA==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="jSAITzdlQV6U0At4dLxHCQ==" SegmentRef="GNUDDENjS+2P7NW/30MeZg==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="74XmTbOASo+gBsT9kF+FZg==" TotalPrice="SGD975.40" BasePrice="LKR84700" ApproximateTotalPrice="USD698.29" ApproximateBasePrice="USD605.65" EquivalentBasePrice="SGD846.00" Taxes="SGD129.40" ApproximateTaxes="USD92.64" CompleteItinerary="true">
+      <air:AirPricingInfo Key="MB8Y7Sv7Rm663gqAlNhTHQ==" TotalPrice="SGD975.40" BasePrice="LKR84700" ApproximateTotalPrice="USD698.29" ApproximateBasePrice="USD605.65" EquivalentBasePrice="SGD846.00" Taxes="SGD129.40" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="3MIlU/l1Tmau8x4d9k63Tg==" />
+        <air:FareInfoRef Key="kjp+liBpT1mCgFZJSL8VzQ==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="OM" Amount="SGD3.70" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL MCT Q3.00 99.06AI BOM509.75NUC611.81END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD34.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="UqwAq+SKQSu/ARXWpef/1Q==" TravelTime="P0DT9H40M0S">
+              <air:BookingInfo BookingCode="Q" CabinClass="Economy" FareInfoRef="3MIlU/l1Tmau8x4d9k63Tg==" SegmentRef="QKjOVGZSTjGQaUg+mNbigQ==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="kjp+liBpT1mCgFZJSL8VzQ==" SegmentRef="diZ7NgGAQ3GO69N7vjyNAw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="znrrecf9QJKoa+FtkV8PkA==" TotalPrice="SGD975.40" BasePrice="LKR84700" ApproximateTotalPrice="USD698.29" ApproximateBasePrice="USD605.65" EquivalentBasePrice="SGD846.00" Taxes="SGD129.40" ApproximateTaxes="USD92.64" CompleteItinerary="true">
+      <air:AirPricingInfo Key="6cGXGEv5QKOsMO5Yg1PWgw==" TotalPrice="SGD975.40" BasePrice="LKR84700" ApproximateTotalPrice="USD698.29" ApproximateBasePrice="USD605.65" EquivalentBasePrice="SGD846.00" Taxes="SGD129.40" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="3MIlU/l1Tmau8x4d9k63Tg==" />
+        <air:FareInfoRef Key="F8e/VfXdQRmT0T4rnWJIgg==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="OM" Amount="SGD3.70" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL MCT Q3.00 99.06 9W BOM509.75NUC611.81END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:ChangePenalty>
+          <air:Amount>SGD34.00</air:Amount>
+        </air:ChangePenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="CU8dxNa6QKWi46oaCVVmtg==" TravelTime="P0DT9H20M0S">
+              <air:BookingInfo BookingCode="Q" CabinClass="Economy" FareInfoRef="3MIlU/l1Tmau8x4d9k63Tg==" SegmentRef="QKjOVGZSTjGQaUg+mNbigQ==" />
+              <air:BookingInfo BookingCode="T" CabinClass="Economy" FareInfoRef="F8e/VfXdQRmT0T4rnWJIgg==" SegmentRef="EnEovqRVR9uFU8EWQ3c0Mg==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="FKkwgu0SQCORExgQKPMmHA==" TotalPrice="SGD1581.70" BasePrice="LKR145800" ApproximateTotalPrice="USD1132.34" ApproximateBasePrice="USD1042.35" EquivalentBasePrice="SGD1456.00" Taxes="SGD125.70" ApproximateTaxes="USD89.99" CompleteItinerary="true">
+      <air:AirPricingInfo Key="L6HM+lhFQCupUEIYOM1EzA==" TotalPrice="SGD1581.70" BasePrice="LKR145800" ApproximateTotalPrice="USD1132.34" ApproximateBasePrice="USD1042.35" EquivalentBasePrice="SGD1456.00" Taxes="SGD125.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="UaheYfDsREG0CMGt2Bf+3g==" />
+        <air:FareInfoRef Key="FRjFVoTJTda1H+CKOuTqBw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL KUL117.85MH BOM Q15.00Q2.31 919.02NUC1054.18END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:CancelPenalty>
+          <air:Amount>SGD50.00</air:Amount>
+        </air:CancelPenalty>
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="mJG7mQnrQnKNK6/SK07x1g==" TravelTime="P0DT15H25M0S">
+              <air:BookingInfo BookingCode="S" CabinClass="Economy" FareInfoRef="UaheYfDsREG0CMGt2Bf+3g==" SegmentRef="6HCV5wiESE6O5SPKdIPPvg==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="FRjFVoTJTda1H+CKOuTqBw==" SegmentRef="LJX0gPz6RjGS7xO1oxgOtg==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="BFnPQcPdRG++k+jY2Wta6w==" TotalPrice="SGD1732.70" BasePrice="LKR144000" ApproximateTotalPrice="USD1240.44" ApproximateBasePrice="USD1029.46" EquivalentBasePrice="SGD1438.00" Taxes="SGD294.70" ApproximateTaxes="USD210.98" CompleteItinerary="true">
+      <air:AirPricingInfo Key="sWti24ljSAKJJe3GsnOQnA==" TotalPrice="SGD1732.70" BasePrice="LKR144000" ApproximateTotalPrice="USD1240.44" ApproximateBasePrice="USD1029.46" EquivalentBasePrice="SGD1438.00" Taxes="SGD294.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="TG" ProviderCode="1P">
+        <air:FareInfoRef Key="8bjXE+rwSwG7kX8zS6q2rQ==" />
+        <air:FareInfoRef Key="qHAz8kguRBuMVTe4ZUXA4Q==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="E7" Amount="SGD2.80" />
+        <air:TaxInfo Category="YQ" Amount="SGD172.90" />
+        <air:FareCalc>CMB TG BKK381.05TG BOM659.67NUC1040.72END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="S7IneMi1RnCPCbmQUCfDlg==" TravelTime="P0DT20H30M0S">
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="8bjXE+rwSwG7kX8zS6q2rQ==" SegmentRef="uYFtiG5VSWGn0PvgbOrtwA==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="qHAz8kguRBuMVTe4ZUXA4Q==" SegmentRef="y5L0QCsSTty4j92fXXPaeg==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="Km4BAlSOSO6mgj40AMePFA==" TotalPrice="SGD1954.60" BasePrice="LKR183700" ApproximateTotalPrice="USD1399.30" ApproximateBasePrice="USD1312.96" EquivalentBasePrice="SGD1834.00" Taxes="SGD120.60" ApproximateTaxes="USD86.34" CompleteItinerary="true">
+      <air:AirPricingInfo Key="y8iKXl6pQleR6e+lijKuqg==" TotalPrice="SGD1954.60" BasePrice="LKR183700" ApproximateTotalPrice="USD1399.30" ApproximateBasePrice="USD1312.96" EquivalentBasePrice="SGD1834.00" Taxes="SGD120.60" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="EY" ProviderCode="1P">
+        <air:FareInfoRef Key="x9F3IIxpRGaVQllOQGKuQg==" />
+        <air:FareInfoRef Key="leDcZrqZQre1hUbZ+2SkTw==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YR" Amount="SGD1.60" />
+        <air:FareCalc>CMB EY AUH Q52.00 344.54EY BOM931.12NUC1327.66END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="Co98wnuIRT2lYaW/fAoz4Q==" TravelTime="P0DT11H15M0S">
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="x9F3IIxpRGaVQllOQGKuQg==" SegmentRef="jjmQdtPVSTaF5cpLpon7dw==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="leDcZrqZQre1hUbZ+2SkTw==" SegmentRef="knOML3+lQh2izLk4yNuOCQ==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="PgjbOHQCSNGwfTYxuGut5w==" TotalPrice="SGD2379.00" BasePrice="LKR226300" ApproximateTotalPrice="USD1703.12" ApproximateBasePrice="USD1617.93" EquivalentBasePrice="SGD2260.00" Taxes="SGD119.00" ApproximateTaxes="USD85.19" CompleteItinerary="true">
+      <air:AirPricingInfo Key="gg2yLlHOTeaLzc30WIA4Hw==" TotalPrice="SGD2379.00" BasePrice="LKR226300" ApproximateTotalPrice="USD1703.12" ApproximateBasePrice="USD1617.93" EquivalentBasePrice="SGD2260.00" Taxes="SGD119.00" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="HM" ProviderCode="1P">
+        <air:FareInfoRef Key="JXkxWYuaTJynYrqctJh6/A==" />
+        <air:FareInfoRef Key="c5zEdDrFSJeIIUTXDf/urg==" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:FareCalc>CMB HM AUH759.21HM BOM876.67NUC1635.88END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="hd5etK/bROCetlP7gRzNPA==" TravelTime="P0DT11H15M0S">
+              <air:BookingInfo BookingCode="M" CabinClass="Economy" FareInfoRef="JXkxWYuaTJynYrqctJh6/A==" SegmentRef="Pka0j269RU6KcTc7DuQCDA==" />
+              <air:BookingInfo BookingCode="M" CabinClass="Economy" FareInfoRef="c5zEdDrFSJeIIUTXDf/urg==" SegmentRef="GgJZ/SaXT5K++BaxxxoEGw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="zfZhcczFRrCg/mQOKAMt+g==" TotalPrice="SGD3342.70" BasePrice="LKR321600" ApproximateTotalPrice="USD2393.03" ApproximateBasePrice="USD2298.75" EquivalentBasePrice="SGD3211.00" Taxes="SGD131.70" ApproximateTaxes="USD94.28" CompleteItinerary="true">
+      <air:AirPricingInfo Key="OIKEskQOT7qLBUl2w3cduA==" TotalPrice="SGD3342.70" BasePrice="LKR321600" ApproximateTotalPrice="USD2393.03" ApproximateBasePrice="USD2298.75" EquivalentBasePrice="SGD3211.00" Taxes="SGD131.70" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="UL" ProviderCode="1P">
+        <air:FareInfoRef Key="V/NaCX+rRjSvUMDius2o4w==" />
+        <air:FareInfoRef Key="hfoIJyjPT/mioi+SftMJPQ==" />
+        <air:TaxInfo Category="OO" Amount="SGD3.00" />
+        <air:TaxInfo Category="SG" Amount="SGD3.00" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD6.70" />
+        <air:FareCalc>CMB UL SIN516.99 9W BOM1808.35NUC2325.34END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="k7OZkZXvSk6ieaRrnipRUQ==" TravelTime="P0DT12H30M0S">
+              <air:BookingInfo BookingCode="Q" CabinClass="Economy" FareInfoRef="V/NaCX+rRjSvUMDius2o4w==" SegmentRef="v+usadqtRMaswmo6I5mtFQ==" />
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="hfoIJyjPT/mioi+SftMJPQ==" SegmentRef="Y51dM2okQHS6Lutj2mc1+g==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="4kIXbEGQSqat8Tj/gVF9gA==" TotalPrice="SGD3542.20" BasePrice="LKR312000" ApproximateTotalPrice="USD2535.86" ApproximateBasePrice="USD2230.03" EquivalentBasePrice="SGD3115.00" Taxes="SGD427.20" ApproximateTaxes="USD305.83" CompleteItinerary="true">
+      <air:AirPricingInfo Key="2j8vUuCWT5SsbcTbYh+s6g==" TotalPrice="SGD3542.20" BasePrice="LKR312000" ApproximateTotalPrice="USD2535.86" ApproximateBasePrice="USD2230.03" EquivalentBasePrice="SGD3115.00" Taxes="SGD427.20" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="SQ" ProviderCode="1P">
+        <air:FareInfoRef Key="a5Y8hEksTAuCAQkBRoRkAg==" />
+        <air:FareInfoRef Key="/Bi/N9yjSHK8EKmWMsnzeg==" />
+        <air:TaxInfo Category="OO" Amount="SGD3.00" />
+        <air:TaxInfo Category="SG" Amount="SGD3.00" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD302.20" />
+        <air:FareCalc>CMB SQ SIN447.21SQ BOM1808.36NUC2255.57END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="jhW2Cz+/See+njUlEF/EYg==" TravelTime="P0DT20H35M0S">
+              <air:BookingInfo BookingCode="Y" CabinClass="Economy" FareInfoRef="a5Y8hEksTAuCAQkBRoRkAg==" SegmentRef="V6AZTIaHQlCb1sw0zqyU+Q==" />
+              <air:BookingInfo BookingCode="B" CabinClass="Economy" FareInfoRef="/Bi/N9yjSHK8EKmWMsnzeg==" SegmentRef="6DnW9jbsRwmxM19ohGzmMw==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+    <air:AirPricePoint Key="v2/8E2msT0q10uX39299YQ==" TotalPrice="SGD3695.50" BasePrice="LKR321600" ApproximateTotalPrice="USD2645.60" ApproximateBasePrice="USD2298.75" EquivalentBasePrice="SGD3211.00" Taxes="SGD484.50" ApproximateTaxes="USD346.85" CompleteItinerary="true">
+      <air:AirPricingInfo Key="gaV33qKKQE67qGJYeugA0w==" TotalPrice="SGD3695.50" BasePrice="LKR321600" ApproximateTotalPrice="USD2645.60" ApproximateBasePrice="USD2298.75" EquivalentBasePrice="SGD3211.00" Taxes="SGD484.50" LatestTicketingTime="2016-01-20T23:59:00.000+00:00" PricingMethod="Unknown" Refundable="true" ETicketability="Yes" PlatingCarrier="QF" ProviderCode="1P">
+        <air:FareInfoRef Key="V/NaCX+rRjSvUMDius2o4w==" />
+        <air:FareInfoRef Key="hfoIJyjPT/mioi+SftMJPQ==" />
+        <air:TaxInfo Category="OO" Amount="SGD3.00" />
+        <air:TaxInfo Category="SG" Amount="SGD3.00" />
+        <air:TaxInfo Category="EJ" Amount="SGD84.00" />
+        <air:TaxInfo Category="LK" Amount="SGD35.00" />
+        <air:TaxInfo Category="YQ" Amount="SGD359.50" />
+        <air:FareCalc>CMB QF SIN516.99QF BOM1808.35NUC2325.34END ROE138.30</air:FareCalc>
+        <air:PassengerType Code="ADT" Age="40" />
+        <air:FlightOptionsList>
+          <air:FlightOption LegRef="xAucCOoPQ3OjVxRLdmFM4Q==" Destination="BOM" Origin="CMB">
+            <air:Option Key="t41+ANoaT2u6j8f1gijGbg==" TravelTime="P0DT12H30M0S">
+              <air:BookingInfo BookingCode="S" CabinClass="Economy" FareInfoRef="V/NaCX+rRjSvUMDius2o4w==" SegmentRef="u4IWSZETTPicSArtusyGuQ==" />
+              <air:BookingInfo BookingCode="S" CabinClass="Economy" FareInfoRef="hfoIJyjPT/mioi+SftMJPQ==" SegmentRef="QAtahIfKRZuUSSn+iuo7Ag==" />
+              <air:Connection SegmentIndex="0" />
+            </air:Option>
+          </air:FlightOption>
+        </air:FlightOptionsList>
+      </air:AirPricingInfo>
+    </air:AirPricePoint>
+  </air:AirPricePointList>
+  <air:BrandList>
+    <air:Brand Key="MdpdQHK6TMauLlZ7ivE8oQ==" BrandID="5705" Name="Economy Flexi" BrandedDetailsAvailable="true" Carrier="SQ">
+      <air:Title Type="External">Economy Flexi</air:Title>
+      <air:Title Type="Short">Flexi</air:Title>
+      <air:Text Type="Upsell">Enjoying the ability to change your flight dates for free, the option to cancel and refund your ticket and upgrade your flight with miles to Business Class when you book on Economy Flexi today.</air:Text>
+      <air:Text Type="MarketingAgent">Our Economy Class innovative design minimizes intrusion into your personal space even as the passenger in front reclines; while ergonomic styling of the seat further maximizes knee and legroom. It also features a headrest that can be adjusted as desired for greater support.
+
+An easily accessible seatback-mounted handset, personal and non-intrusive reading light and in-seat power supply, are just some of the many intelligent touches designed with you in mind. (Applicable to most aircraft types)</air:Text>
+      <air:Text Type="Strapline">Sit back and relax</air:Text>
+      <air:ImageLocation Type="Agent" ImageWidth="150" ImageHeight="150">https://merchandisingmanagement.travelport.com/documents/10431/13649/YCL.jpg</air:ImageLocation>
+    </air:Brand>
+  </air:BrandList>
+</air:LowFareSearchRsp>

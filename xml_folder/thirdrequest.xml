@@ -1,0 +1,51 @@
+<AirCreateReservationReq xmlns="http://www.travelport.com/schema/universal_v33_0" TraceId="a4525141-8867-45c5-83c4-3c40c25311e4" AuthorizedBy="Travelport" TargetBranch="P7027242" ProviderCode="1P" RetainReservation="Both">
+  <BillingPointOfSaleInfo xmlns="http://www.travelport.com/schema/common_v33_0" OriginApplication="UAPI" />
+  <BookingTraveler xmlns="http://www.travelport.com/schema/common_v33_0" Key="aWk5MGhlaVNiQU5VdFNHSA==" TravelerType="ADT" Age="40" DOB="1976-01-07" Gender="M" Nationality="US">
+    <BookingTravelerName Prefix="Mr" First="John" Last="Smith" />
+    <DeliveryInfo>
+      <ShippingAddress Key="aWk5MGhlaVNiQU5VdFNHSA==">
+        <Street>Via Augusta 59 5</Street>
+        <City>Madrid</City>
+        <State>IA</State>
+        <PostalCode>50156</PostalCode>
+        <Country>US</Country>
+      </ShippingAddress>
+    </DeliveryInfo>
+    <PhoneNumber Location="DEN" CountryCode="1" AreaCode="303" Number="123456789" />
+    <Email EmailID="johnsmith@travelportuniversalapidemo.com" />
+    <Address>
+      <AddressName>DemoSiteAddress</AddressName>
+      <Street>Via Augusta 59 5</Street>
+      <City>Madrid</City>
+      <State>IA</State>
+      <PostalCode>50156</PostalCode>
+      <Country>US</Country>
+    </Address>
+  </BookingTraveler>
+  <FormOfPayment xmlns="http://www.travelport.com/schema/common_v33_0" Type="Credit" Key="1">
+    <CreditCard Type="VI" Number="4444333322221111" ExpDate="2015-12" Name="John Smith" CVV="123" Key="1">
+      <BillingAddress Key="c7860785-5588-4e9a-b9a9-018f5730f150">
+        <AddressName>DemoSiteAddress</AddressName>
+        <Street>Via Augusta 59 5</Street>
+        <City>Madrid</City>
+        <State>IA</State>
+        <PostalCode>50156</PostalCode>
+        <Country>US</Country>
+      </BillingAddress>
+    </CreditCard>
+  </FormOfPayment>
+  <AirPricingSolution xmlns="http://www.travelport.com/schema/air_v33_0" Key="rKP+CkphRCyOpI2Jo0ZTVw==" TotalPrice="SGD289.00" BasePrice="LKR170.00" ApproximateTotalPrice="USD206.89" ApproximateBasePrice="USD121.70" EquivalentBasePrice="SGD170.00" Taxes="SGD119.00">
+    <AirSegment Key="BPeH/6EuT5upRKMXyoxKVQ==" OptionalServicesIndicator="false" Group="0" Carrier="AI" FlightNumber="274" Origin="CMB" Destination="MAA" DepartureTime="2016-01-20T18:30:00.000+05:30" ArrivalTime="2016-01-20T19:50:00.000+05:30" ProviderCode="1P" ClassOfService="L" />
+    <AirSegment Key="oqc+N5fbQ8iTHxQ/U6sK9w==" OptionalServicesIndicator="false" Group="0" Carrier="AI" FlightNumber="569" Origin="MAA" Destination="BOM" DepartureTime="2016-01-21T06:20:00.000+05:30" ArrivalTime="2016-01-21T08:10:00.000+05:30" ProviderCode="1P" ClassOfService="V" />
+    <AirPricingInfo PricingMethod="Auto" Taxes="SGD119.00" Key="YccD04/KRMCep/42iIKaPQ==" TotalPrice="SGD289.00" BasePrice="LKR170.00" ApproximateTotalPrice="USD206.90" ApproximateBasePrice="USD121.70" ProviderCode="1P">
+      <FareInfo PromotionalFare="false" FareFamily="" Amount="SGD170.00" DepartureDate="0001-01-01" EffectiveDate="2016-01-07T11:39:51.550+05:30" Destination="BOM" Origin="CMB" PassengerTypeCode="ADT" FareBasis="LOW" Key="7r2tUkx5TJKQhk6kHbguSQ==">
+        <FareRuleKey FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" ProviderCode="1P">gktGMhjcPf3UuQ1L0vXSjzEP1S73H7ezrAVso4EceSgQUFz1xal2Rg5tnXGETBWOEn8Mg+HAuzKP5Rqw65fgFORsBfJKkIog</FareRuleKey>
+        <Brand />
+      </FareInfo>
+      <BookingInfo BookingCode="L" CabinClass="" FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" SegmentRef="BPeH/6EuT5upRKMXyoxKVQ==" />
+      <BookingInfo BookingCode="V" CabinClass="" FareInfoRef="7r2tUkx5TJKQhk6kHbguSQ==" SegmentRef="oqc+N5fbQ8iTHxQ/U6sK9w==" />
+      <PassengerType Code="ADT" BookingTravelerRef="aWk5MGhlaVNiQU5VdFNHSA==" />
+    </AirPricingInfo>
+  </AirPricingSolution>
+  <ActionStatus xmlns="http://www.travelport.com/schema/common_v33_0" Type="ACTIVE" TicketDate="T*" ProviderCode="1P" />
+</AirCreateReservationReq>

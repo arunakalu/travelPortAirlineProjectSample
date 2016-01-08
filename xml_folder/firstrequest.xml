@@ -1,0 +1,18 @@
+<LowFareSearchReq xmlns="http://www.travelport.com/schema/air_v33_0" TraceId="38ceb673-1d34-4942-9bf5-1d1c28429399" TargetBranch="P7027242" ReturnUpsellFare="true">
+  <BillingPointOfSaleInfo xmlns="http://www.travelport.com/schema/common_v33_0" OriginApplication="uAPI" />
+  <SearchAirLeg>
+    <SearchOrigin>
+      <CityOrAirport xmlns="http://www.travelport.com/schema/common_v33_0" Code="CMB" PreferCity="true" />
+    </SearchOrigin>
+    <SearchDestination>
+      <CityOrAirport xmlns="http://www.travelport.com/schema/common_v33_0" Code="BOM" PreferCity="true" />
+    </SearchDestination>
+    <SearchDepTime PreferredTime="2016-01-20" />
+  </SearchAirLeg>
+  <AirSearchModifiers>
+    <PreferredProviders>
+      <Provider xmlns="http://www.travelport.com/schema/common_v33_0" Code="1P" />
+    </PreferredProviders>
+  </AirSearchModifiers>
+  <SearchPassenger xmlns="http://www.travelport.com/schema/common_v33_0" Code="ADT" Age="40" DOB="1976-01-07" />
+</LowFareSearchReq>
